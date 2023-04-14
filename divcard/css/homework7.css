@@ -1,0 +1,27 @@
+h1{
+    text-align:center;
+}
+.food{
+    width: 140px;
+    border: 1px solid grey;
+    border-radius: 20px;
+    float: left;
+    margin: 30px;
+}
+
+p{
+    text-align: center;
+}
+
+img{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+.main{
+    width: 80vw;
+    margin: auto;
+}

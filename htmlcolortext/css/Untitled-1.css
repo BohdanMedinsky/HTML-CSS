@@ -1,0 +1,17 @@
+.margin-left2{margin-left:2cm}
+.margin-left3{margin-left:3cm}    
+.margin-left4{margin-left:4cm}
+.text_center {text-align: center;}
+.text_red {background-color: red;}
+.text_italic {font-style: italic;}
+.text_d {text-decoration-line:underline;}
+.text_bold {font-weight: bold;}
+.text {text-align: left;}
+span{color: black;}
+.red{color: red;}
+.black{color: black;}
+u {border-bottom: 1px dashed black ;}
+u {text-decoration:dashed;}
+.background_lightgray {background-color: lightgray;}
+.red {color: red;}
+.blue {color: blue;}

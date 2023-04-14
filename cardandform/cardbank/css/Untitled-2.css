@@ -1,0 +1,49 @@
+.CARDS{
+    width: 700px;
+    height: 400px;
+    margin-left: 300px;
+    margin-top: 50px;
+    float: left;
+
+}
+
+body{
+    background-image: url(image/background.png);
+
+}
+
+.main{
+    width: 700px;
+    height: 500px;
+}
+
+.card{
+    float: left;
+    margin-left: 300px;
+    margin-bottom: 200px;
+   
+
+}
+
+
+
+p{
+    background-color: rgb(72, 7, 145);
+    color: white;
+    width: 300px;
+    height: 20px;
+    text-align: center;
+
+}
+
+#user{
+    width: 100px;
+}
+
+#ua{
+    width: 100px;
+}
+
+#usser{
+    width: 100px;
+}

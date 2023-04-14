@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: lightgray;
+    padding: 5%;
+}
+
+.container {
+    width: 50%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.chat1 {
+    display: flex;
+    width: 23%;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-items: center;
+    margin: 0%;
+}
+
+.text {
+    background-color: rgb(215, 109, 127);
+    box-sizing: border-box;
+    width: 50%;
+    border-radius: 10px 10px 10px 10px;
+    margin: 1%;
+    padding: 25px;
+}
+
+.chat {
+    display: flex;
+    flex-direction: row;
+    justify-content:start;
+    align-items: center;
+}
+
+.chat:nth-child(even) {
+    flex-direction: row-reverse;
+    justify-content: end;
+}
+
+.chat:nth-child(even) .chat1 {
+    flex-direction: row-reverse;
+    margin: 1%;
+}
+
+.hours{
+    color: rgb(37, 2, 2);
+    font-size: x-small;
+}

@@ -1,0 +1,17 @@
+body{
+    background-image: url(../image/leaves-background-with-metallic-foil_79603-956.webp);
+    margin: auto;
+    background-size: cover;
+    
+}
+p{
+    background-color: aliceblue;
+    margin: 50px;
+    text-align: justify;
+    width: 400px;
+}
+
+.main{
+    width: 400px;
+    margin: auto;
+}

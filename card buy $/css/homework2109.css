@@ -1,0 +1,78 @@
+div {
+    height: 350px;
+    width: 300px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.red {
+    width: 100%;
+    border: 1px solid red;
+}
+
+.orange {
+    width: 100%;
+    border: 1px solid orange;
+}
+
+.blue {
+    width: 100%;
+    border: 1px solid rgb(3, 3, 20);
+}
+
+.green {
+    width: 100%;
+    border: 1px solid rgb(142, 208, 142);
+}
+
+.gray {
+    color: gray;
+}
+
+.buy1 {
+    padding: 10px;
+    background-color: red;
+    border-radius: 10% ;
+}
+
+.buy2 {
+    padding: 10px;
+    background-color: orange;
+    border-radius: 10% ;
+}
+
+.buy3 {
+    padding: 10px;
+    background-color: blue;
+    border-radius: 10% ;
+}
+
+.buy4 {
+    padding: 10px;
+    background-color: green;
+    border-radius: 10% ;
+}
+
+div {
+    float:left ;
+    border-radius: 10%;
+    margin: 1%;
+    
+}
+
+div:hover {
+    transform:scale(1.2);
+    z-index: 1;
+    transition: 1s;
+
+
+}
+
+body {
+    margin-left: 5%;
+    margin-top: 10%;
+    background-color: lightgray;
+}
+body:hover {
+    background-color: rgb(248, 248, 239);
+}

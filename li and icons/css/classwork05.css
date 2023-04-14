@@ -1,0 +1,21 @@
+footer {
+    background-color: rgb(39, 39, 169);
+    padding: 20px;
+    height: 250px;
+}
+img {filter: grayscale(100%);
+    margin-top: 40px;
+}
+img:hover {filter: grayscale(0%);}
+.copyright {text-align: center;}
+div {
+    width: 25%;
+    padding: 15px;
+    float: left;
+    color: white;
+}
+hr {width: 100%;}
+p {color: white;}
+A:hover {
+    color: white;
+}
